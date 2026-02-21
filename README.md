@@ -203,4 +203,11 @@ The enriched and emotion-labeled dataset was used to generate the analytical inf
 - Fully programmatic LLM-based emotion classification via API  
 - Genre-emotion interaction modeling  
 - Survival analysis on chart longevity  
-- Predictive modeling for hit probability  
+- Predictive modeling for hit probability
+
+## ⚖️ Disclaimer
+
+This is an independent personal project conducted for analytical and educational purposes.
+
+It has no affiliation with Spotify, Genius, Google, or any artists referenced.  
+All chart data was collected from publicly accessible rankings.
