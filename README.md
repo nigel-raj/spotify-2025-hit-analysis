@@ -8,14 +8,14 @@ This independent project combines automation, API enrichment, transformer-based 
 
 ## 📊 Dataset Overview
 
-- **Source:** Spotify Daily Top Songs Global (2025) - 200 chart positions, released daily
+- **Source:** Spotify Daily Top Songs Global - 200 chart positions, released daily
 - **Timeframe:** Jan 1, 2025 - Dec 31, 2025 (365 days)
 - **Total Chart Entries:** ~73,000
 - **Unique Tracks:** Enriched via Spotify & Genius APIs
 - **Final Output:** Emotion-labeled, metadata-enriched dataset for quantitative analysis
 
 For this project, a “hit” is defined as:
-Any song that enters Spotify’s Daily Top Songs Global chart — meaning it ranks among the 200 most streamed songs globally on a given day.
+Any song that enters Spotify’s Daily Top Songs Global chart in 2025 — meaning it ranks among the 200 most streamed songs globally on a given day.
 
 ---
 
