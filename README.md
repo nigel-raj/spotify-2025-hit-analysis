@@ -88,7 +88,7 @@ Global hits are predominantly emotionally positive or introspective rather than 
 Clear streaming spikes observed during:
 
 - Super Bowl period  
-- Major album releases (e.g. Talor Swift's The Life of a Showgirl album release day)  
+- Major album releases (e.g. Taylor Swift's The Life of a Showgirl album release day)  
 - Christmas Eve surge  
 
 Indicating strong interaction between music performance and cultural events.
