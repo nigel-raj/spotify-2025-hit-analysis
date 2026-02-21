@@ -2,14 +2,14 @@
 
 An end-to-end data pipeline analysing ~73,000 entries from Spotify’s Daily Top Songs Global chart in 2025 to uncover measurable patterns behind globally successful songs.
 
-This independent project combines automation, API enrichment, transformer-based NLP experimentation, and LLM-assisted emotion classification to explore the psychological and structural characteristics of chart-topping tracks.
+This independent project combines automation, API enrichment, transformer-based NLP experimentation and LLM-assisted emotion classification to explore the psychological and structural characteristics of global hits.
 
 ---
 
 ## 📊 Dataset Overview
 
-- **Source:** Spotify Daily Top Songs Global (2025)
-- **Timeframe:** 365 days
+- **Source:** Spotify Daily Top Songs Global (2025) - 200 chart positions, released daily
+- **Timeframe:** Jan 1, 2025 - Dec 31, 2025 (365 days)
 - **Total Chart Entries:** ~73,000
 - **Unique Tracks:** Enriched via Spotify & Genius APIs
 - **Final Output:** Emotion-labeled, metadata-enriched dataset for quantitative analysis
