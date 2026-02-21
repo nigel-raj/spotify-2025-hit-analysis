@@ -145,7 +145,7 @@ Create a `.env` file based on `.env.example` before running scripts.
 
 The enriched and emotion-labeled dataset was used to generate the analytical infographic:
 
-**“Decoding the DNA of a Spotify Global Hit.”**
+![Spotify Hit DNA](assets/Decoding The DNA of a Spotify Hit.png)
 
 ---
 
